@@ -164,7 +164,7 @@ The project includes dashboards and visualizations including:
 - **Summary table:** Including information about ABC Class, Revenue, Cummulative Revenue (%), Stock & Stock Value, EOQ, Safety Stock, ROP and Average Lead Time Days for each SKU
 <img width="1909" height="994" alt="Inventory_Management_Dashboard" src="https://github.com/user-attachments/assets/79b12be2-891a-4047-8da2-a0252d605d02" />
 
-## 📋 Methodology
+## 📋 Calculations
 ### 1. Data Collection & Preparation
 - Collected 53,196 daily transaction records over 12 months
 - Organized data by product, category, date, demand quantity, and unit costs
